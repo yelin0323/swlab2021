@@ -3,8 +3,10 @@
 
 int  goo()
 {
+
 	printf("hello goo\n");
 	printf("good bye~\n");
 
 	return 0;
 }
+
