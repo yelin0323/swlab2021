@@ -3,7 +3,16 @@
 
 void foo()
 {
-	printf("hello foo\n");
+	int flag = 0;
+	if(flag) 
+	{
+		printf("hello foo\n");
+	}
+	else
+	{
+		printf("good bye~\n");
+	}
+	
 }
 
 
