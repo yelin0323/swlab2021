@@ -2,8 +2,8 @@
 
 int main(void)
 {
-	foo();
-	goo();
+	int a = foo();
+	int b = goo();
 
 	return 0;
 }
